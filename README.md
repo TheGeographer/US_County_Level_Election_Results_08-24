@@ -207,9 +207,9 @@ mapshaper \
 The result of these commands should output a TopoJSON file that looks like the following:
 ![us_election_results](https://raw.githubusercontent.com/tonmcg/US_County_Level_Election_Results_08-24/master/img/us_election_results.png)
 
-### Visualizing Results with a Dot Density Map
+### Visualizing Results with a Proportional Symbol Map
 
-Dot density maps are great for showing where things are concentrated. Instead of comparing vote counts between counties, the map below displays the total number of votes within each county. It highlights that most votes come from counties with large, urban populations.
+Proportional symbol maps are great for showing where things are concentrated. Instead of comparing vote counts between counties, the map below displays the total number of votes within each county. It highlights that most votes come from counties with large, urban populations.
 
 ```
 mapshaper \
